@@ -88,7 +88,7 @@
   <a href="https://dotnet.microsoft.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
+  <img class="logo" src="../../_static/flask-vertical.png" alt="Logo of Flask">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="25" height="25" />
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">

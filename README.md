@@ -102,41 +102,41 @@
     </td>
   </tr>
  <tr>
-      <td align="center" width="96">
+      <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" />
       <br>MongoDB
     </td>
-        <td align="center" width="96">
+        <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
       </td>
       </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
       <br>PHP
     </td>
-            <td align="center" width="96">
+            <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode
     </td>
-              <td align="center" width="96">
+              <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
       <br>WordPress
     </td>
-              <td align="center" width="96">
+              <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="Vue" />
       <br>Dotnet
-  <td align="center" width="96">
+  <td align="center" width="90">
       <a href="#macropower-tech">
         <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>SQLite
     </td>
-              <td align="center" width="96">
+              <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
       <br>Java
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
@@ -230,7 +230,7 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009039.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---

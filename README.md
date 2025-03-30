@@ -56,7 +56,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 
 </p>
 
-/////////////////////
+<p align="center">
+<a href="https://github.com/jrohitofficial?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/></a>
+<a href="https://github.com/jrohitofficial?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=jrohitofficial&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+</p>
 <!-- <p align="center">
   <a href="https://github.com/jrohitofficial"><img src="contributions.svg"></a> -->
 </p>
@@ -80,13 +83,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="25" height="25" />
   </a>
   <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25" />
-  </a>
-  <a href="https://heroku.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="25" height="25" />
-  </a>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
-  </a>
+    <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" width="25" height="25
   <img class="logo" src="../../_static/flask-vertical.png" alt="Logo of Flask">
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="25" height="25" />
   </a>

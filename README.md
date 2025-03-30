@@ -25,78 +25,78 @@
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
       <br>React
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
       <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
       <br>JavaScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
       <br>C++
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
       <br>Webpack
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
       <br>TypeScript
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       <br>AWS
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
       <br>C#
     </td>
   </tr>
   <tr>
-  <td align="center" width="96">
+  <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
       <br>Django
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
     </td>
-    <td align="center" width="96"> 
+    <td align="center" width="90"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=laravel" width="40" height="40" alt="Laravel" />
       <br>Laravel
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       <br>HTML5
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
+    <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
       <br>Android
     </td>
-    <td align="center" width="96">
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
       <br>jQuery
     </td>
@@ -144,7 +144,6 @@
 </table>
 </table>
   
-<br><br>
   <!--
 <a href="https://jrohit.com.np">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Final.png" alt="Clickable Image">

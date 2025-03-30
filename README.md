@@ -59,10 +59,6 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       <br>AWS
     </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C#
-    </td>
   </tr>
   <tr>
   <td align="center" width="90">
@@ -95,10 +91,6 @@
     <td align="center" width="90">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
       <br>Android
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
-      <br>jQuery
     </td>
   </tr>
  <tr>
@@ -136,12 +128,22 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="https://www.java.com" />
       <br>Java
     </td>
+ </tr>
+</table>
+  <tr>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
- </tr>
-</table>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
+      <br>jQuery
+    </td>
+    <td align="center" width="90">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C#
+    </td>
+  </tr>
 </table>
   
   <!--

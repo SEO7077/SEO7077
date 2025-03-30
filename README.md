@@ -142,8 +142,9 @@
     </td>
  </tr>
 </table>
-<br><br>
 </table>
+  
+<br><br>
   <!--
 <a href="https://jrohit.com.np">
     <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Final.png" alt="Clickable Image">

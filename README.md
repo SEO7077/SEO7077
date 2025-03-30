@@ -311,13 +311,15 @@
 <details>
   <summary>Skills</summary>
   
-- Problem Solving
-- Youtuber
-- Blogging
-- Web Content Writing
-- Video Editing
-- Blogger
-- Researching & Learning
+  
+ - Project management
+ - Strong decision maker
+ - Complex problem solver
+ - Problem Solving
+ - Creative design Innovative
+ - Service-focused
+ - Blogging
+
 </details>
 
 

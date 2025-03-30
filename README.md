@@ -236,17 +236,13 @@
 <!-- activity graph heroku-app start -->
 <
 <!-- activity graph heroku-app end -->
-
+### 📈 Contribution Line Graph:
+<p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=tcoder206&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
 
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
         <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
-
-
-
-### 📈 Contribution Line Graph:
-<p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=tcoder206&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
 
 
 ---

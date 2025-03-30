@@ -245,6 +245,9 @@
 
 
 
+### 📈 Contribution Line Graph:
+<p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=tcoder206&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
+
 
 ---
 <div align="center">

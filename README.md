@@ -204,9 +204,7 @@
   <a href="https://www.linux.org" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="Linux" width="25" height="25" />
   </a>
-  <a href="https://www.apple.com/macos/sonoma/" target="_blank">
-    <img src="https://www.svgrepo.com/show/349442/macos.svg" alt="macOS" width="25" height="25" />
-  </a>
+   <br><br>
 </p>
 
 

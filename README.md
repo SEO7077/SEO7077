@@ -162,9 +162,6 @@
   </p>
 
 
-<p align="center"> 
-<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
-</p>  
   
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrohitofficial&theme=gotham&layout=compact"width="40%"/> 

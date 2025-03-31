@@ -67,6 +67,8 @@
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
       <br>jQuery
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
@@ -110,6 +112,12 @@
       <br>Django
     </td>
     <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="40" height="40" />
+      <br>Next.js
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=wordpress" width="40" height="40" alt="WordPress" />
       <br>WordPress
     </td>
@@ -117,8 +125,6 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="40" height="40" />
       <br>AWS
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
@@ -131,8 +137,6 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
       <br>Android
     </td>
-  </tr>
- <tr>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />
       <br>VsCode

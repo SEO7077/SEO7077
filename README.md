@@ -59,6 +59,12 @@
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="40" height="40" />
       <br>Webpack
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwindcss" alt="icon" width="40" height="40" />
+      <br>Tailwindcss
+    </td>
     <td align="center"  width="90">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="bootstrap" />
       <br>Bootstrap
@@ -67,8 +73,6 @@
         <img src="https://skillicons.dev/icons?i=jquery"width="40" height="40" alt="jQuery" />
       <br>jQuery
     </td>
-  </tr>
-  <tr>
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
       <br>MySQL
@@ -91,6 +95,8 @@
         <img src="https://skillicons.dev/icons?i=php" width="40" height="40" alt="PHP" />
       <br>PHP
     </td>
+  </tr>
+  <tr>
         <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Nodejs" />
       <br>Nodejs
@@ -115,6 +121,14 @@
         <img src="https://skillicons.dev/icons?i=next" alt="icon" width="40" height="40" />
       <br>Next.js
     </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=vue" alt="icon" width="40" height="40" />
+      <br>Vue.js
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=nuxt" alt="icon" width="40" height="40" />
+      <br>Nuxt.js
+    </td>
   </tr>
   <tr>
     <td align="center" width="90">
@@ -132,10 +146,6 @@
     <td align="center" width="90">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
       <br>Github
-    </td>
-    <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="tailwind" />
-      <br>Android
     </td>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VsCode" />

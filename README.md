@@ -254,13 +254,16 @@
   </tr>
 </table>
 
+
+<!----
 <p align="center">
 <img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@jrohitofficial's github-readme-stats"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=jrohitofficial&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/>
 </p>
-<!-- <p align="center">
+
+<p align="center">
   <a href="https://github.com/jrohitofficial"><img src="contributions.svg"></a> -->
-</p>
+</p>   --->
 
 <br/>
 
@@ -277,16 +280,17 @@
 ### 📈 Contribution Line Graph:
 <p align="center"> <img width="1000" src="https://github-readme-activity-graph.vercel.app/graph?username=tcoder206&bg_color=07114a&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Minh Tris's Github Graph" /> </p>
 
+<!---
 <p align="center">
     <a href="https://github.com/jrohitofficial/jrohitofficial">
         <img src="https://github-profile-trophy.vercel.app/?username=jrohitofficial&column=-1&theme=dracula&layout=compact"width="95%"/> 
-</p>
+</p>   --->
 
 ---
 
 ### 👨‍💻 Apps & IDEs:
 [![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)](https://www.aseprite.org/)
-[![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
+<!--- [![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) --->
 [![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)](https://www.sublimetext.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)

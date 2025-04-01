@@ -172,9 +172,9 @@
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
   <img src="https://profile-counter.glitch.me/jrohitofficial/count.svg"/>
   </p>
-
+<!--
 [![SEO7077's GitHub stats](https://github-readme-stats.vercel.app/api?username=Konano)](https://github.com/anuraghazra/github-readme-stats)
-  
+  -->
 <table width="100%" align="center">
   <tr>
     <td colspan="3" align="center">

@@ -183,9 +183,9 @@
           srcset="https://github-readme-stats.vercel.app/api?username=konona&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark" 
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=SEO7077&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
+          srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api?username=SEO7077&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
       </picture>
     </a></td>
     <td colspan="3" align="center">
@@ -205,34 +205,34 @@
     <td colspan="2" align="center">
       <picture>
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=SEO7077&border_color=0000&bg_color=0000&theme=nord_dark"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=SEO7077&border_color=0000&bg_color=0000&theme=nord_bright"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=SEO7077&border_color=0000&bg_color=0000" height="100%" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/repos-per-language?username=Konano&border_color=0000&bg_color=0000" height="100%" />
       </picture>
     </a></td>
     <td colspan="2" align="center">
       <picture>
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=SEO7077&border_color=0000&bg_color=0000&theme=nord_dark"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=SEO7077&border_color=0000&bg_color=0000&theme=nord_bright"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Konano&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=SEO7077&border_color=0000&bg_color=0000" height="100%" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/most-commit-language?username=Konano&border_color=0000&bg_color=0000" height="100%" />
       </picture>
     </a></td>
     <td colspan="2" align="center">
       <picture>
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=SEO7077&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Konano&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_dark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=SEO7077&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
+          srcset="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Konano&utcOffset=8&border_color=0000&bg_color=0000&theme=nord_bright"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=SEO7077&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
+        <img src="http://github-profile-summary-cards-mirror.vercel.app/api/cards/productive-time?username=Konano&utcOffset=8&border_color=0000&bg_color=0000" height="100%" />
       </picture>
     </a></td>
   </tr>
@@ -240,12 +240,13 @@
     <td colspan="6" align="center">
       <picture>
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=SEO7077&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true&theme=onedark"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-profile-trophy.vercel.app/?username=SEO7077&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
+          srcset="https://github-profile-trophy.vercel.app/?username=Konano&column=7&row=1&margin-w=8&no-bg=true&no-frame=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-profile-trophy.vercel.app/?username=SEO7077&column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=Konano
+          &column=7&row=1&margin-w=8&no-bg=true&no-frame=true" width="100%" />
       </picture>
     </a></td>
   </tr>

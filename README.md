@@ -173,14 +173,14 @@
   <img src="https://profile-counter.glitch.me/jrohitofficial/count.svg"/>
   </p>
 
-[![SEO7077's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO7077)](https://github.com/anuraghazra/github-readme-stats)
+[![SEO7077's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEO7077&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <table width="100%" align="center">
   <tr>
     <td colspan="3" align="center">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=SEO7077&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark" 
+          srcset="https://github-readme-stats.vercel.app/api?username=konona&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark" 
           media="(prefers-color-scheme: dark)" />
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=SEO7077&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"

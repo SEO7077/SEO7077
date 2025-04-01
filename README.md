@@ -1,8 +1,6 @@
 ![wave thing 0](https://capsule-render.vercel.app/api?type=waving&height=190&text=Welcome to my Profile!&color=gradient&section=header&reversal=true)
   <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 <p align="center">
   <a href="http://jrohit.com.np" target="_blank">
       <p align="center">
@@ -10,6 +8,7 @@
         cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
       </p>
   </a>
+</p>
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a>

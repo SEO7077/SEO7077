@@ -173,7 +173,7 @@
   <img src="https://profile-counter.glitch.me/jrohitofficial/count.svg"/>
   </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![SEO7077's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
   
 <table width="100%" align="center">
   <tr>

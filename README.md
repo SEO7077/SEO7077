@@ -177,19 +177,19 @@
   -->
 <table width="100%" align="center">
   <tr>
+  <!-----
     <td colspan="3" align="center">
       <picture>
-        <!----
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000&theme=dark" 
           media="(prefers-color-scheme: dark)" />
-        -->
         <source
           srcset="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long&bg_color=00000000"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-stats.vercel.app/api?username=Konano&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&number_format=long" height="100%" />
       </picture>
     </a></td>
+  --->
     <td colspan="3" align="center">
       <picture>
         <source

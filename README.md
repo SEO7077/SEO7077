@@ -190,8 +190,8 @@
       </picture>
     </a></td>
   --->
-    <p align="center">
     <td colspan="3" align="center">
+    <p align="center">
       <picture>
         <source
           srcset="https://github-readme-streak-stats-mirror.vercel.app/?user=Konano&mode=weekly&hide_border=true&background=00000000&theme=dark"
@@ -201,8 +201,9 @@
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
         <img src="https://github-readme-streak-stats-mirror.vercel.app/?user=Konano&mode=weekly&hide_border=true" height="100%" />
       </picture>
-    </a></td>
+    </a>
   </p>
+</td>
   </tr>
   <tr>
 <!-- Thanks @zetaloop! -->
